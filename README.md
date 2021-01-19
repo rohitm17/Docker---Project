@@ -1,5 +1,5 @@
 # Docker-Project
-This conatins project related Docker and its components like containers, images and docker-compose
+This contains project related Docker and its components like containers, images and docker-compose
 
 To create this project we have to setup our environment:
 
